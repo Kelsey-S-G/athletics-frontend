@@ -1,0 +1,92 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/sports/get_sports",
+      "destination": "http://169.239.251.102:3341/~chika.amanna/back-end/sports/get_sports.php"
+    },
+    {
+      "source": "/api/highlights/get_highlights",
+      "destination": "http://169.239.251.102:3341/~chika.amanna/back-end/highlights/get_highlights.php"
+    },
+    {
+      "source": "/api/news/get_news",
+      "destination": "http://169.239.251.102:3341/~chika.amanna/back-end/news/get_news.php"
+    },
+    {
+      "source": "/api/athletes/get_athletes_of_week",
+      "destination": "http://169.239.251.102:3341/~chika.amanna/back-end/athletes/get_athletes_of_week.php"
+    },
+    {
+      "source": "/api/events/get_events",
+      "destination": "http://169.239.251.102:3341/~chika.amanna/back-end/events/get_events.php"
+    },
+    {
+      "source": "/api/recruit/get_teams",
+      "destination": "http://169.239.251.102:3341/~chika.amanna/back-end/recruit/get_teams.php"
+    },
+    {
+      "source": "/api/athletes/get_athletes",
+      "destination": "http://169.239.251.102:3341/~chika.amanna/back-end/athletes/get_athletes.php"
+    },
+    {
+      "source": "/api/recruit/submit_recruitment",
+      "destination": "http://169.239.251.102:3341/~chika.amanna/back-end/recruit/submit_recruitment.php"
+    },
+    {
+      "source": "/api/shop/get_shop",
+      "destination": "http://169.239.251.102:3341/~chika.amanna/back-end/shop/get_shop.php"
+    },
+    {
+      "source": "/api/auth/login",
+      "destination": "http://169.239.251.102:3341/~chika.amanna/back-end/auth/login.php"
+    },
+    {
+      "source": "/api/auth/signup",
+      "destination": "http://169.239.251.102:3341/~chika.amanna/back-end/auth/signup.php"
+    },
+    {
+      "source": "/api/athletes/addOrUpdateAthlete",
+      "destination": "http://169.239.251.102:3341/~chika.amanna/back-end/athletes/addOrUpdateAthlete.php"
+    },
+    {
+      "source": "/api/athletes/delete_athlete",
+      "destination": "http://169.239.251.102:3341/~chika.amanna/back-end/athletes/delete_athlete.php"
+    },
+    {
+      "source": "/api/athletes/set_athletes_of_week",
+      "destination": "http://169.239.251.102:3341/~chika.amanna/back-end/athletes/set_athletes_of_week.php"
+    },
+    {
+      "source": "/api/events/addOrUpdateEvent",
+      "destination": "http://169.239.251.102:3341/~chika.amanna/back-end/events/addOrUpdateEvent.php"
+    },
+    {
+      "source": "/api/events/delete_event",
+      "destination": "http://169.239.251.102:3341/~chika.amanna/back-end/events/delete_event.php"
+    },
+    {
+      "source": "/api/highlights/addOrUpdateHighlight",
+      "destination": "http://169.239.251.102:3341/~chika.amanna/back-end/highlights/addOrUpdateHighlight.php"
+    },
+    {
+      "source": "/api/highlights/delete_highlight",
+      "destination": "http://169.239.251.102:3341/~chika.amanna/back-end/highlights/delete_highlight.php"
+    },
+    {
+      "source": "/api/news/addOrUpdateNews",
+      "destination": "http://169.239.251.102:3341/~chika.amanna/back-end/news/addOrUpdateNews.php"
+    },
+    {
+      "source": "/api/news/delete_news",
+      "destination": "http://169.239.251.102:3341/~chika.amanna/back-end/news/delete_news.php"
+    },
+    {
+      "source": "/api/teams/addOrUpdateTeam",
+      "destination": "http://169.239.251.102:3341/~chika.amanna/back-end/teams/addOrUpdateTeams.php"
+    },
+    {
+      "source": "/api/teams/delete_teams",
+      "destination": "http://169.239.251.102:3341/~chika.amanna/back-end/teamms/delete_teams.php"
+    }
+  ]
+}
